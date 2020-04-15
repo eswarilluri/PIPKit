@@ -11,7 +11,7 @@ import UIKit
 final class PIPKitEventDispatcher {
     
     private enum Consts {
-        static let hangAroundPadding: CGFloat = 15.0
+        static let hangAroundPadding: CGFloat = 0.0
     }
     
     private weak var rootViewController: PIPKitViewController?
